@@ -1,0 +1,34 @@
+.about-card{
+    display: flex;
+    background-color: #F4F4F4;
+    align-items: center;
+    gap: 2rem;
+    padding: 2rem 2rem;
+    border-top: 2px solid #c3c3c3;        
+    &__info{
+        display: flex;
+    }
+    &__info i{
+        font-size: 18px;
+        line-height: 26px;
+        color: #0000d3;
+        font-weight: 600;
+        padding-left: 10px;
+    }
+    &__info-link{
+        text-decoration: none;
+        color: #0000d3;
+        background-color: transparent;
+        font-weight: 700;
+
+    }
+
+    &__desc-title{
+        font-size: 24px;
+        line-height: 28px;
+        font-weight: 700;
+        color: #002856;
+        width: 70%;
+    }
+   
+}

@@ -1,0 +1,25 @@
+.nav{
+    &__list{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+    background-color: #f4f4f4;
+    padding: 12px 0px;
+    }
+    &__item{
+        text-decoration: none;
+        margin-right: 2px solid #c3c3c3;
+        color: #002856;
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 17px;
+        padding: 0px 16px;
+        vertical-align: baseline;
+        display: inline-block;
+        border-right: 2px solid #c3c3c3;
+        ;
+
+    }
+}
+

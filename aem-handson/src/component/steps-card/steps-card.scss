@@ -1,0 +1,57 @@
+.steps-card-img{
+    position: relative;
+    margin-top: 4rem;
+
+    &__desc{
+        position: absolute;
+        top: 0;
+        left: 25px;
+
+    }
+    &__desc-title{
+    font-size: 32px;
+    line-height: 38px;
+    font-weight: 700;
+    color: #002856;
+}
+&__download{
+    display: flex;
+    align-items: center;
+
+    .desc-variant>a{
+        color: #fff;
+    }
+}
+&__download i{
+    font-size: 24px;
+    line-height: 26px;
+    padding-left: 10px;
+    color: #0000d3;
+    font-weight: 600;
+}
+   &__download-link{
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 700;
+    color: #0000d3;
+   }
+
+   .desc-variant{
+    color: #fff;
+    .steps-card-img__desc-title{
+        color:#fff ;
+    }
+    .steps-card-img__download{
+        color:#fff;
+    }
+    .steps-card-img__download-link{
+        color: #fff;
+    }
+    .fa-solid{
+        color: #fff;
+    }
+    
+}
+
+}

@@ -1,0 +1,24 @@
+.tools-hero-container{
+    display: flex;
+    padding: 17px 56px;
+    gap: 3rem;
+    &__desc h2{
+        font-size: 18px;
+        line-height: 30px;
+        font-weight: 400;
+        color: #000;
+        margin: 0;
+    }
+    &__desc-title{
+        font-size: 72px;
+        line-height: 72px;
+        font-weight: 800;
+        color: #002856;
+    }
+    &__banner img{
+        display: block;
+    max-width: 100%;
+    height: auto;
+    }
+
+}

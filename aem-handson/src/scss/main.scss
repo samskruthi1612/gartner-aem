@@ -1,0 +1,130 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 17px 56px;
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    background-color: #fff;
+    &__nav{
+        display: flex;
+        align-items: baseline;
+        flex: 1;
+    }
+    &__list{
+        list-style: none;
+        display: flex;
+        text-decoration: none;
+    }
+    &__list-items{
+        text-decoration: none;
+        color: #002856;
+        padding: 0 8px;
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 20px;
+        display: inline-block;
+        border-left: 1.5px solid transparent;
+        border-right: 1.5px solid transparent;
+    }
+    &__contact{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    &__contact-link{
+    color: #002856;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 14px;
+    line-height: 20px;
+
+    }
+    &__search{
+        padding-right: 30px;
+        padding-top: 20px;
+        font-weight: 400;
+    }
+}
+
+.steps{
+    display: flex;
+    justify-content: space-evenly;
+}
+.feature-card{
+    display: flex;
+    background-color: #002856;
+    align-items: baseline;
+    padding: 24px 56px;
+    gap: 4rem;
+    position: relative;
+    margin-bottom: 17rem;
+
+    &__title{
+        width: 100%;
+        color: #06C4B0;
+        font-size: 48px;
+        line-height: 48px;
+        font-weight: 400;
+    }
+    &__description p{
+        font-size: 26px;
+        line-height: 42px;
+        font-weight: 400;
+        color: #fff;
+    }
+}
+.feature-card-img{
+    position: absolute;
+    bottom: -272px;
+    left: 0px;
+}
+.news-container{
+    padding: 0px 56px;
+    margin-bottom: 48px;
+    &__title{
+        color: rgb(0,40,86);
+        font-weight: 800;
+        font-size: 42px;
+        line-height: 48px;
+
+    }
+    &__contents{
+        display: flex;
+    }
+    &__item{
+        flex: 1;
+    }
+}
+.qualities-card{
+ background-color: #2BCDBC;
+ padding: 56px;
+    &__title{
+        font-size: 36px;
+        line-height: 36px;
+        margin-bottom: 30px;
+        color: #002856;
+        font-weight: 800;
+        width: 70%;
+
+    }
+    &__container{
+        display: flex;
+        font-size: 36px;
+        line-height: 36px;
+        margin-bottom: 30px;
+        color: #002856;
+        font-weight: 800;
+        padding-top: 56px;
+        gap: 2rem;
+
+
+    }
+}
+.qualities-card__tools-container{
+    background-color: #fff;
+}

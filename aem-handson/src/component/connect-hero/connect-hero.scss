@@ -1,0 +1,28 @@
+.connect-hero-banner{
+    display: flex;
+    padding: 0 56px;
+    background-color: #2BCDBC;
+    border: solid 1px #2BCDBC;
+    gap: 2rem;
+
+    &__img img{
+        width: 430px;
+    }
+    &__desc{
+        padding-top: 30px;
+    }
+    &__desc h1{
+        font-size: 56px;
+        line-height: 60px;
+        font-weight: 800;
+        color: #002856;
+    }
+    &__desc p{
+        font-size: 26px;
+    line-height: 42px;
+    font-weight: 400;
+    color: #000;
+
+    }
+   
+}

@@ -1,0 +1,137 @@
+{
+"nav_1": {
+    "type" : "navigation",
+    "nav1" : "Conferences",
+    "nav2" : "About",
+    "nav3" : "Newsroom",
+    "nav4" : "Careers",
+    "nav5" : "My Account"
+},
+"btn": {
+    "type" : "button",
+    "btn-class" : "primary-btn",
+    "label" : "Become a Client"
+},
+"gartner":{
+    "type": "gartner",
+    "gartner-img": "../assets/images/gartner.png"
+},
+"card-one": {
+    "type" : "card-one",
+    "abt_class" : "performance",
+    "text" : "Measure, prioritize, accelerate and communicate your digital strategy",
+    "text1" : "Read Now",
+    "measure-icon" : "../assets/images/chart.png"
+
+},
+"card-two": {
+    "type" : "card-one",
+    "abt_class" : "performance",
+    "text" : "Benchmark key functional processes and activities.",
+    "text1" : "See How You Compare",
+    "measure-icon" : "../assets/images/graph.png"
+
+},
+"card-three": {
+    "type" : "card-one",
+    "abt_class" : "performance",
+    "text" : "Use Gartner BuySmart™ capabilities to streamline your tech purchasing, from start to finish.",
+    "text1" : "Confidently Manage Your",
+    "measure-icon" : "../assets/images/badge.png"
+
+},
+"feature-1": {
+    "type" : "feature",
+    "feature" : "feature",
+    "text1" : "How Milliken partnered with Gartner to drive efficiency, prioritization and supply chain management maturity",
+    "text2" : "Milliken &amp; Company, a multibillion dollar industrial manufacturing company, worked with Gartner to assess the maturity of and identify and address performance gaps in its sales and operations planning process."
+
+},
+"feature-2": {
+    "type" : "feature",
+    "feature" : "feature",
+    "text1" : "How NYC Health + Hospitals scaled its data and analytics program with Gartner",
+    "text2" : "NYC Health + Hospitals, which delivers services to more than 1 million New Yorkers, enlisted Gartner to help provide its workforce with access to high-quality data to enable smart, strategic decisions."
+
+},
+
+"news-product-1": {
+    "type" : "news-product",
+    "text1" : "Report",
+    "text2" : "See Our 2023 DEI Report",
+    "news-about" : "report"
+},
+"news-product-2": {
+    "type" : "news-product",
+    "text1" : "Blog",
+    "text2" : "Gartner Named Forbes Best Place to Work for Women in America",
+    "news-about" : "report"
+},
+"news-product-3": {
+    "type" : "news-product",
+    "text1" : "Blog",
+    "text2" : "How Our Associates Raised $56K for Charity in One Hour",
+    "news-about" : "report"
+},
+"hero-banner": {
+    "type" : "hero-banner",
+    "hero-img": "../assets/images/hero-img.jpg",
+    "text1": "The One-Pager That Revolutionizes Strategic Planning",
+    "text2": "Simplify your approach amid disruption",
+    "text3": "Download Template"
+},
+"steps-card-1": {
+    "type" : "steps-card",
+    "bg-steps-card": "../assets/images/step1.jpg",
+    "text1": "Create Your AI Strategy",
+    "text2": "Download Planning Workbook"
+},
+"steps-card-2": {
+    "type" : "steps-card",
+    "bg-steps-card": "../assets/images/step2.jpg",
+    "text1": "6 Steps to Get Buy-In on Your Data and Analytics Initiatives",
+    "text2": "Try Framework"
+},
+"steps-card-3": {
+    "type" : "steps-card",
+    "bg-steps-card": "../assets/images/step3.jpg",
+    "text1": "Gartner IT Symposium/Xpo™ Conference Sessions Announced",
+    "text2": "Register Now",
+    "desc-variant": "desc-variant"
+},
+"qualities-1": {
+    "type": "qualities",
+    "qualities-icon": "./assets/images/eye.png",
+    "heading-text": "Access proven management and technology research anytime."
+
+},
+"qualities-2": {
+    "type": "qualities",
+    "qualities-icon": "./assets/images/people-connect.png",
+    "heading-text": "Get one-on-one guidance from Gartner experts on your&nbsp;mission-critical priorities."
+
+},
+"qualities-3": {
+    "type": "qualities",
+    "qualities-icon": "./assets/images/chart-increase.png",
+    "heading-text": "Gain confidence in your decisions using our proprietary tools."
+
+},
+"qualities-4": {
+    "type": "qualities",
+    "qualities-icon": "./assets/images/speech-bubble.png",
+    "heading-text": "Connect directly with peers to discuss common issues and initiatives."
+
+},
+"footer": {
+    "gartner-img": "../assets/images/gartner.png",
+    "type": "footer",
+    "about-gartner": "About Gartner",
+    "text-title1": "Who We Are",
+    "text-title2":"What We Do",
+    "text1":"About Us",
+    "text2": "Corporate Responsibility",
+    "text3": "Investor Relations",
+    "text4": "Newsroom"
+
+}}

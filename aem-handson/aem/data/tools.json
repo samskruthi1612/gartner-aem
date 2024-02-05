@@ -1,0 +1,119 @@
+{
+"nav_1": {
+        "type" : "navigation",
+        "nav1" : "Conferences",
+        "nav2" : "About",
+        "nav3" : "Newsroom",
+        "nav4" : "Careers",
+        "nav5" : "My Account"
+},
+"btn": {
+    "type" : "button",
+    "btn-class" : "primary-btn",
+    "label" : "Become a Client"
+},
+"gartner":{
+    "type": "gartner",
+    "gartner-img": "../assets/images/gartner.png"
+},
+"tools-hero-banner":{
+    "type": "tools-hero-banner",
+    "hero-screen": "../assets/images/hero-screen.png"
+},
+"feature-tools-1":{
+    "type": "feature-tools",
+    "feature-tools-images": "../assets/images/hype-cycle1.png",
+    "text1": "Hype Cycle™",
+    "paragraph": "Understand the potential pitfalls and opportunities of innovations in the context of your industry and appetite for risk."
+},
+"feature-tools-2":{
+    "type": "feature-tools",
+    "feature-tools-images": "../assets/images/quadrant.png",
+    "text1": "Magic Quadrant™",
+    "paragraph": "Evaluate and identify technology providers using our deep research and analysis — before you invest."
+},
+"feature-tools-3":{
+    "type": "feature-tools",
+    "feature-tools-images": "../assets/images/hype-cycle3.png",
+    "text1": "Critical Capabilities",
+    "paragraph": "Gain deeper insight into providers’ products and capabilities and their suitability for your business."
+},
+"feature-tools-4":{
+    "type": "feature-tools",
+    "feature-tools-images": "../assets/images/hype-cycle4.png",
+    "text1": "Digital IQ",
+    "paragraph": "Access research and recommendations to benchmark digital performance relative to peers and competitors."
+},
+"feature-tools-5":{
+    "type": "feature-tools",
+    "feature-tools-images": "../assets/images/hype-cycle5.png",
+    "text1": "HProduct Decisions",
+    "paragraph": "Power your product roadmap with proprietary buyer data, analyst insight on buyer needs and product capabilities across 100+ markets."
+},
+"feature-tools-6":{
+    "type": "feature-tools",
+    "feature-tools-images": "../assets/images/hype-cycle6.png",
+    "text1": "BuySmart™",
+    "paragraph": "Reduce costs, avoid common mistakes and purchase technology with confidence."
+},
+"card-one": {
+    "type" : "card-one",
+    "abt_class" : "performance",
+    "text" : "Benchmarking",
+    "text1" : "Read Now",
+    "measure-icon" : "../assets/images/chart.png"
+
+},
+"card-two": {
+    "type" : "card-one",
+    "abt_class" : "performance",
+    "text" : "ost Optimization",
+    "text1" : "See How You Compare",
+    "measure-icon" : "../assets/images/graph.png"
+
+},
+"card-three": {
+    "type" : "card-one",
+    "abt_class" : "performance",
+    "text" : "Strategic Planning",
+    "text1" : "Confidently Manage Your",
+    "measure-icon" : "../assets/images/badge.png"
+
+},
+"qualities-1": {
+    "type": "qualities",
+    "qualities-icon": "../assets/images/eye2.png",
+    "heading-text": "Gather insight to deepen understanding",
+    "heading-rule-tools": "heading-rule-tools"
+
+},
+"qualities-2": {
+    "type": "qualities",
+    "qualities-icon": "../assets/images/chart-increase2.png",
+    "heading-text": "Leverage expert guidance to ask the right questions"
+
+},
+"qualities-3": {
+    "type": "qualities",
+    "qualities-icon": "../assets/images/speech3.png",
+    "heading-text": "Deploy tools to create an effective plan"
+
+},
+"qualities-4": {
+    "type": "qualities",
+    "qualities-icon": "../assets/images/people-connect2.png",
+    "heading-text": "Connect with peers to validate and accelerate strategy"
+
+},
+"footer": {
+    "gartner-img": "../assets/images/gartner.png",
+    "type": "footer",
+    "about-gartner": "About Gartner",
+    "text-title1": "Who We Are",
+    "text-title2":"What We Do",
+    "text1":"About Us",
+    "text2": "Corporate Responsibility",
+    "text3": "Investor Relations",
+    "text4": "Newsroom"
+}
+}

@@ -1,0 +1,54 @@
+{
+    "nav_1": {
+        "type" : "navigation",
+        "nav1" : "Conferences",
+        "nav2" : "About",
+        "nav3" : "Newsroom",
+        "nav4" : "Careers",
+        "nav5" : "My Account"
+    },
+    "btn": {
+        "type" : "button",
+        "btn-class" : "primary-btn",
+        "label" : "Become a Client"
+    },
+    "gartner":{
+        "type": "gartner",
+        "gartner-img": "../assets/images/gartner.png"
+    },
+    "connect-hero-banner":{
+        "type": "connect-hero-banner",
+        "connect-hero-img": "../assets/images/connect-hero.jpg",
+        "title": "Connect with peers on your mission-critical priorities",
+        "paragraph-text":"Collaborate to accelerate, validate and solidify your strategy and enable faster, smarter decisions."
+    },
+    "globalsite-1":{
+        "type": "globalsite",
+        "article-title": "Experience Conferences",
+        "paragraph": "Attend one of our 40+ annual Gartner conferences to share knowledge, solve common problems and cultivate professional relationships. Register today to network with peers in your field and share experiences, opinions and questions related to your organization’s goals.",
+        "global-connect-img": "../assets/images/global1.jpg"
+    },
+    "globalsite-2":{
+        "type": "globalsite",
+        "article-title": "Experience Conferences",
+        "paragraph": "Attend one of our 40+ annual Gartner conferences to share knowledge, solve common problems and cultivate professional relationships. Register today to network with peers in your field and share experiences, opinions and questions related to your organization’s goals.",
+        "global-connect-img": "../assets/images/monitor.png"
+    },
+    "globalsite-3":{
+        "type": "globalsite",
+        "article-title": "Experience Conferences",
+        "paragraph": "Attend one of our 40+ annual Gartner conferences to share knowledge, solve common problems and cultivate professional relationships. Register today to network with peers in your field and share experiences, opinions and questions related to your organization’s goals.",
+        "global-connect-img": "../assets/images/woman.jpg"
+    },
+    "footer": {
+        "gartner-img": "../assets/images/gartner.png",
+        "type": "footer",
+        "about-gartner": "About Gartner",
+        "text-title1": "Who We Are",
+        "text-title2":"What We Do",
+        "text1":"About Us",
+        "text2": "Corporate Responsibility",
+        "text3": "Investor Relations",
+        "text4": "Newsroom"
+    }
+}

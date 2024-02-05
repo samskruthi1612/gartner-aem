@@ -1,0 +1,17 @@
+import "./scss/main.scss";
+import "./component/navigation/navigation";
+import "./component/gartner/gartner";
+import "./component/button/button.js";
+import "./component/card-one/card-one.js";
+import "./component/steps-card/steps-card";
+import "./component/feature/feature.js";
+import "./component/qualities/qualities";
+import "./component/news/news-product.js";
+import "./component/hero-banner/hero-banner";
+import "./component/link/link";
+import "./component/footer/footer";
+import "./component/tools-hero-banner/tools-hero-banner";
+import "./component/feature-tools/feature-tools";
+import "./component/connect-hero/connect-hero";
+import "./component/globalsite/globalsite";
+import "./scss/tools.scss";

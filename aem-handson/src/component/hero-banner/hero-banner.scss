@@ -1,0 +1,56 @@
+.hero-banner{
+    position: relative;
+    &__download{
+        display: flex;
+        align-items: center;
+
+    }
+    &__download i{
+        font-size: 24px;
+        line-height: 26px;
+        color: #0000d3;
+        font-weight: 600;
+        padding-left: 10px;
+
+    }
+    &__download i:hover{
+        transform: translateX(10px);
+    }
+    &__download-link{
+    font-size: 24px;
+    line-height: 26px;
+    color: #0000d3;
+    background-color: transparent;
+    text-decoration: none;
+    font-weight: 700;
+
+    }
+   
+
+}
+.hero-banner-desc{
+    border-right: 20px solid #009AD7;
+    border-left: 20px solid #009AD7;
+    position: absolute;
+    background: #fff;
+    padding: 48px 32px;
+    top: 196px;
+    left: 732px;
+
+    &__bold{
+        font-size: 56px;
+        line-height: 60px;
+        font-weight: 800;
+        color: #002856;
+        margin-top: 38px;
+        margin-bottom: 20;
+    }
+    &__caption{
+        font-size: 26px;
+        line-height: 28px;
+        margin-top: 0;
+        margin-bottom: 36px;
+        
+    }
+   
+}

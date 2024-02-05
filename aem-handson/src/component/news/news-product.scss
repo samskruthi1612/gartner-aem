@@ -1,0 +1,21 @@
+.news-product{
+    &__heading{
+        color: #535353;
+        font-size: 18px;
+        line-height: 24px;
+        font-weight: 600;
+    }
+    &__heading i{
+        color: #535353;
+        font-size: 15px;
+        padding-right: 5px;
+
+    }
+    &__desc{
+        color: #002856;
+        text-decoration: none;
+        font-size: 20px;
+        line-height: 28px;
+        font-weight: 600;
+    }
+}
